@@ -1,1 +1,1 @@
-Creating A powershell Function Every day of the week
+Random Powershell Functions if I think baout it
